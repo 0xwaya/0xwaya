@@ -1,5 +1,6 @@
 # 0xwaya
 
-Web3        AI Agent        Full-Stack EngineerArchitect Builder 
+Web3 Builder | AI Agent Architect | Full-Stack Engineer
 
- **Portfolio source and full technical README:** [github.com/0xwaya/dev](https://github.com/0xwaya/dev)
+Portfolio source and full technical README: https://github.com/0xwaya/dev
+Live site: https://wayalabs.com
