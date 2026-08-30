@@ -71,14 +71,12 @@
 
 | Project | Stack | Links |
 |---|---|---|
-| **CEO Agent System** | LangGraph · Python · OpenAI · Flask · SocketIO | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/ceo-agent-system) [![Live](https://img.shields.io/badge/-Live-854CE6?style=flat-square&logo=vercel)](https://wayalabs.com) |
-| **Loro App — NFT Dapp** | Solidity · React · Ethers.js · Hardhat | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/loro-app) |
-| **QueenCity Soundboard** | Next.js · Supabase · TypeScript | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/queencity-soundboard) [![Live](https://img.shields.io/badge/-Live-854CE6?style=flat-square&logo=vercel)](https://queencitysoundboard.com) |
-| **Tarot AI** | React · Python · LLM | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/tarot) |
-| **Space Warp** | Solidity · FVM · ETHGlobal | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/space-warp) |
-| **Amazon Granite** | Python · Node.js · Web Scraping | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/amazon-granite) [![Live](https://img.shields.io/badge/-Live-854CE6?style=flat-square&logo=vercel)](https://urbanstone.co) |
-| **DevRel Uni RSS** | Next.js · RSS | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/devreluni_rss) [![Live](https://img.shields.io/badge/-Live-854CE6?style=flat-square&logo=vercel)](https://dru-resources.vercel.app) |
-| **Dream Car** | HTML · CSS · JS | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/0xwaya/dreamcar) [![Live](https://img.shields.io/badge/-Live-854CE6?style=flat-square&logo=vercel)](https://0xwaya.github.io/dreamcar/) |
+| **CEO Agent System** | LangGraph · Python · OpenAI · Flask · SocketIO | [Repo](https://github.com/0xwaya/ceo-agent-system) · [WayaLabs](https://wayalabs.com) |
+| **OpenJaw Core Template** | Shell · Persona files · Init script | [Repo](https://github.com/0xwaya/openjaw-core-template) |
+| **Loro App — NFT Dapp** | Solidity · React · Ethers.js · Hardhat · Chainlink VRF | [Repo](https://github.com/0xwaya/loro-app) · [Live](https://loro.vercel.app) |
+| **QueenCity Soundboard** | Next.js · Supabase · TypeScript | [Repo](https://github.com/0xwaya/queencity-soundboard-standalone) · [Live](https://www.queencitysoundboard.com) |
+| **Space Warp (ETHGlobal FVM)** | Solidity · Filecoin · Hyperspace | [Repo](https://github.com/0xwaya/space-warp) |
+| **DevRel Uni RSS** | Next.js · MDX · RSS | [Repo](https://github.com/0xwaya/devreluni_rss) · [Live](https://dru-resources.vercel.app) |
 
 ---
 
@@ -109,31 +107,13 @@
 
 ---
 
-## 🛠 Portfolio
+## 🛠 Portfolio source
 
-This repo is the source for **[0xwaya.dev](https://wayalabs.com)** — built with:
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+Source for the live site → **[wayalabs.com](https://wayalabs.com)** (also [0xwaya/dev](https://github.com/0xwaya/dev)).
 
 ```bash
-npm install
-npm run dev -- --host --port 3000     # http://localhost:3000
-npm run build   # production build
+npm install && npm run dev -- --host --port 3000
 ```
-
----
-
-## 🔗 GitHub Landing Page Link
-
-To make your GitHub landing page point to this `/dev` project README:
-
-1. Create a public repo named **`0xwaya`** (special GitHub profile repo).
-2. Add a `README.md` in that repo with a link to this project: **https://github.com/0xwaya/dev**.
-3. Keep this `/dev` README as the full technical portfolio source.
 
 ---
 
