@@ -90,8 +90,8 @@ Not a client offer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xwaya&show_icons=true&hide_border=true&bg_color=07080c&title_color=f3f4f6&icon_color=ffffff&text_color=9aa1ad&border_radius=12" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xwaya&layout=compact&hide_border=true&bg_color=07080c&title_color=f3f4f6&text_color=9aa1ad&border_radius=12" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/0xwaya/0xwaya/main/assets/stats.png" alt="GitHub stats" width="340" />
+<img src="https://raw.githubusercontent.com/0xwaya/0xwaya/main/assets/langs.png" alt="Top languages" width="340" />
 
 <br />
 
