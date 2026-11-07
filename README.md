@@ -70,21 +70,21 @@ Solidity and the EVM work are earlier public builds, including ETHGlobal Space W
 
 ## Live
 
-| | | |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/0xwaya/wayalabs/main/public/apple-touch-icon.png" width="48" alt="" /> | **WayaLabs**<br>Studio site. Next.js, TypeScript, Tailwind. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://wayalabs.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/wayalabs) |
-| **Urban Stone Collective** |<br>Countertop site and lead system. Cincinnati and Northern Kentucky. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://urbanstone.co) [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/urban-stone) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/urbanstone) |
-| **Queen City Soundboard** |<br>Live music, comedy, and culture. Next.js and Supabase. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://queencitysoundboard.com) [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/queen-city-soundboard) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/queencity-soundboard) |
+| Project | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/0xwaya/wayalabs/main/public/apple-touch-icon.png" width="44" alt="WayaLabs" /> **WayaLabs**<br>Studio site. Next.js, TypeScript, Tailwind. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://wayalabs.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/wayalabs) |
+| **Urban Stone Collective**<br>Countertop site and lead system. Cincinnati and Northern Kentucky. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://urbanstone.co) [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/urban-stone) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/urbanstone) |
+| **Queen City Soundboard**<br>Live music, comedy, and culture. Next.js and Supabase. | [![Site](https://img.shields.io/badge/Site-07080c?style=for-the-badge&logo=vercel&logoColor=white)](https://queencitysoundboard.com) [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/queen-city-soundboard) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/queencity-soundboard) |
 
 ## Research
 
 Not a client offer.
 
-| | | |
-|---|---|---|
-| **CEO Agent System** | Public LangGraph repo. 16-agent hierarchy, Socket.IO dashboard, reviewable artifacts. | [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/ceo-agent-system) [![Lab](https://img.shields.io/badge/Lab-111111?style=for-the-badge)](https://wayalabs.com/lab/ceo-agent) |
-| **OpenClaw / Echo** | Private runtime. Sandbox, gated tools. No public Echo repo. | [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/openclaw-agent) |
-| **Grok operators** | Isolated checkouts. A person reviews a change before it is pushed. | [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/grok-operators) |
+| Project | |
+|---|---|
+| **CEO Agent System**<br>Public LangGraph repo. 16-agent hierarchy, Socket.IO dashboard, reviewable artifacts. | [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xwaya/ceo-agent-system) [![Lab](https://img.shields.io/badge/Lab-111111?style=for-the-badge)](https://wayalabs.com/lab/ceo-agent) |
+| **OpenClaw / Echo**<br>Private runtime. Sandbox, gated tools. No public Echo repo. | [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/openclaw-agent) |
+| **Grok operators**<br>Isolated checkouts. A person reviews a change before it is pushed. | [![Case](https://img.shields.io/badge/Case-111111?style=for-the-badge)](https://wayalabs.com/case-studies/grok-operators) |
 
 ---
 
